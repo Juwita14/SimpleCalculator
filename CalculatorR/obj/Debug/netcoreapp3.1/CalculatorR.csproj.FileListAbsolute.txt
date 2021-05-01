@@ -1,0 +1,15 @@
+C:\Users\TOSHIBA\source\repos\CalculatorR\CalculatorR\bin\Debug\netcoreapp3.1\CalculatorR.exe
+C:\Users\TOSHIBA\source\repos\CalculatorR\CalculatorR\bin\Debug\netcoreapp3.1\CalculatorR.deps.json
+C:\Users\TOSHIBA\source\repos\CalculatorR\CalculatorR\bin\Debug\netcoreapp3.1\CalculatorR.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\CalculatorR\CalculatorR\bin\Debug\netcoreapp3.1\CalculatorR.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\CalculatorR\CalculatorR\bin\Debug\netcoreapp3.1\CalculatorR.dll
+C:\Users\TOSHIBA\source\repos\CalculatorR\CalculatorR\bin\Debug\netcoreapp3.1\CalculatorR.pdb
+C:\Users\TOSHIBA\source\repos\CalculatorR\CalculatorR\obj\Debug\netcoreapp3.1\CalculatorR.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\CalculatorR\CalculatorR\obj\Debug\netcoreapp3.1\CalculatorR.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\source\repos\CalculatorR\CalculatorR\obj\Debug\netcoreapp3.1\CalculatorR.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\CalculatorR\CalculatorR\obj\Debug\netcoreapp3.1\CalculatorR.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\CalculatorR\CalculatorR\obj\Debug\netcoreapp3.1\CalculatorR.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\CalculatorR\CalculatorR\obj\Debug\netcoreapp3.1\CalculatorR.dll
+C:\Users\TOSHIBA\source\repos\CalculatorR\CalculatorR\obj\Debug\netcoreapp3.1\CalculatorR.pdb
+C:\Users\TOSHIBA\source\repos\CalculatorR\CalculatorR\obj\Debug\netcoreapp3.1\CalculatorR.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\CalculatorR\CalculatorR\obj\Debug\netcoreapp3.1\CalculatorR.Calculator.resources
